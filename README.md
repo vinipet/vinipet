@@ -18,6 +18,7 @@
    </div>
     
   
+  <!-- 
   <h1 align="center">Redes Sociais</h1>
     <a href = "mailto: work.luigi.fonseca@gmail.com">
       <img width="30" src="gmail.svg">
@@ -26,20 +27,5 @@
       <img width="25" src="linkedin.svg">
     </a>
 </div>
-  
+  -->
 ![Snake animation](https://github.com/vinipet/vinipet/blob/output/github-contribution-grid-snake.svg)
-
-<!--
-**vinipet/vinipet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
